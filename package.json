@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/MadMax8930/repo-back/issues"
   },
-  "homepage": "https://github.com/MadMax8930/repo-back#readme"
+  "homepage": "https://github.com/MadMax8930/repo-back#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
